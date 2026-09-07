@@ -1,1 +1,1 @@
-console.log("Marsilino علق ")
+console.log("Marsilino ")
